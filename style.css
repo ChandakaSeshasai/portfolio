@@ -204,7 +204,7 @@ h2 {
 }
 
 .project-card a:hover {
-    color: #007bff;
+    color: inherit;
     text-decoration: underline;
 }
 
